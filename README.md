@@ -6,8 +6,8 @@ UnitConverter is a unit conversion app.
 Unit conversion 
 
 ## Screenshots
-![image](https://github.com/ngaikkeung/SwiftUI-WeSplit/blob/main/Screenshot/main.png?raw=true)
+![image](https://github.com/ngaikkeung/SwiftUI-UnitConvertor/blob/main/Screenshot/main.png?raw=true)
 
-![image](https://github.com/ngaikkeung/SwiftUI-WeSplit/blob/main/Screenshot/input.png?raw=true)
+![image](https://github.com/ngaikkeung/SwiftUI-UnitConvertor/blob/main/Screenshot/input.png?raw=true)
 
-![image](https://github.com/ngaikkeung/SwiftUI-WeSplit/blob/main/Screenshot/unitChange.png?raw=true)
+![image](https://github.com/ngaikkeung/SwiftUI-UnitConvertor/blob/main/Screenshot/unitChange.png?raw=true)
